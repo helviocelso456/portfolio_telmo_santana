@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #1D140E;
+    font-family: 'Inter';
+}
+
+.navbar-brand{
+    margin-left: 5px;
+}
+
+nav
+{
+    border-bottom: 1px solid #D9A441;
+    font-family: 'Space Grotesk';
+    width: 100%;
+}
+
+@media (max-width:768px)
+{
+
+}
+
+@media (min-width:769px)
+{
+   
+
+   #surname-title
+   {
+     color: #C9663A;
+   }
+
+   .desc-text
+   {
+     color: #B8A78F;
+   }
+
+   #c1,p
+   {
+     margin-left: 1rem;
+   }
+   #c1,h1
+   {
+     margin-left: 1rem;
+   }
+
+   #btn1
+   {
+      background-color: #C9663A;
+      margin-left: 1rem;
+      padding: 10px;
+   }
+}

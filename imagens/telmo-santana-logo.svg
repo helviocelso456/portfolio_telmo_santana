@@ -1,0 +1,9 @@
+<svg viewBox="0 0 300 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M150 8L280 60V160C280 240 225 300 150 332C75 300 20 240 20 160V60L150 8Z" stroke="#D9A441" stroke-width="4"/>
+  <path d="M150 40L250 78V158C250 224 205 274 150 300C95 274 50 224 50 158V78L150 40Z" stroke="#C9663A" stroke-width="4"/>
+  <path d="M150 72L220 98V156C220 208 187 248 150 268C113 248 80 208 80 156V98L150 72Z" stroke="#3E5B73" stroke-width="4"/>
+  <line x1="150" y1="8" x2="150" y2="332" stroke="#3A2C1F" stroke-width="2.5"/>
+  <line x1="20" y1="160" x2="280" y2="160" stroke="#3A2C1F" stroke-width="2.5"/>
+  <path d="M110 140L150 110L190 140L175 190H125L110 140Z" stroke="#D9A441" stroke-width="4"/>
+  <circle cx="150" cy="150" r="10" fill="#C9663A"/>
+</svg>
