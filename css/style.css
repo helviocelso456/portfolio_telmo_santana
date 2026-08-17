@@ -19,6 +19,57 @@ nav
     width: 100%;
 }
 
+.bg-dark-light
+{
+   background-color: #251A12;
+}
+
+.bg-terracota
+{
+   background-color: #C9663A;
+}
+
+
+.text-gold-light
+{
+   color: #B8A78F;
+}
+
+
+.text-terracota
+{
+   color: #C9663A;
+}
+
+.font-12
+{
+  font-size: 12px;
+}
+
+.font-space-mono
+{
+   font-family: 'Space Mono';
+}
+
+.container-bordas
+{
+   border: 1px solid;
+   border-radius: 5px;
+}
+
+.border-top-gold-light
+{
+  border-top: 1px solid #b8a78f86;
+}
+
+.border-bottom-gold-light
+{
+  border-bottom: 1px solid #b8a78f86;
+}
+
+
+
+
 @media (max-width:768px)
 {
 
@@ -26,31 +77,8 @@ nav
 
 @media (min-width:769px)
 {
-   
-
-   #surname-title
+   .border-right-gold
    {
-     color: #C9663A;
-   }
-
-   .desc-text
-   {
-     color: #B8A78F;
-   }
-
-   #c1,p
-   {
-     margin-left: 1rem;
-   }
-   #c1,h1
-   {
-     margin-left: 1rem;
-   }
-
-   #btn1
-   {
-      background-color: #C9663A;
-      margin-left: 1rem;
-      padding: 10px;
+      border-right: 1px solid #D9A441;
    }
 }
